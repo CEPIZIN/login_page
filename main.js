@@ -1,3 +1,5 @@
+
+
 let inputs = document.getElementsByClassName('input-form');
 for (let input of inputs) {
     input.addEventListener("blur", function() {
