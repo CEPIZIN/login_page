@@ -16,7 +16,7 @@ This project features a simple login page developed using HTML, CSS, and JavaScr
 - `CSS/style.css`: CSS file for styling the login page.
 - `IMAGES/Privacy policy-rafiki.png`: Image used on the login page.
 - `main.js`: JavaScript file for interactivity.
-
+- `back-end`: user authentication
 ## Backend Development
 
 A backend system is currently in development to handle user authentication and further functionalities. Stay tuned for updates!
