@@ -1,0 +1,26 @@
+{
+  "name": "login_page",
+  "version": "1.0.0",
+  "description": "Login Page Project with Backend Development\r This project features a simple login page developed using HTML, CSS, and JavaScript, along with an ongoing backend development. Users can input their email and password to log in.\r ![image](https://github.com/CEPIZIN/login_page/assets/116749645/3023d6a7-b29c-4bf5-911a-bc0e33afb577)",
+  "main": "main.js",
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CEPIZIN/login_page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CEPIZIN/login_page/issues"
+  },
+  "homepage": "https://github.com/CEPIZIN/login_page#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "open": "^9.1.0"
+  }
+}
