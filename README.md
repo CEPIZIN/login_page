@@ -1,5 +1,5 @@
 
-# Login Page Project with Backend in Development
+# Login Page 
 
 ![image](https://github.com/CEPIZIN/login_page/assets/116749645/3023d6a7-b29c-4bf5-911a-bc0e33afb577)
 
